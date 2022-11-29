@@ -89,7 +89,16 @@
 	text-align: center;
 	padding: 20px;
 }
-
+.fa-utensils{
+	font-size: 16px;
+	margin: 3px;
+}
+.text-box p{
+	font-size: 16px;
+	color: #fff;
+	line-height: 1.5;
+	text-align: center;
+}
 /*在 ipad 直式下變更樣式*/
 @media (max-width:768px){
 	.banner{
@@ -122,17 +131,6 @@
 	.text-box h1{
 		font-size: 20px;
 	}
-}
-
-.fa-utensils{
-	font-size: 16px;
-	margin: 3px;
-}
-.text-box p{
-	font-size: 16px;
-	color: #fff;
-	line-height: 1.5;
-	text-align: center;
 }
 
 .content-bg{
