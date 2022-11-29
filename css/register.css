@@ -37,6 +37,12 @@
 	text-decoration: none;
 }
 
+/*在 ipad 直式下變更樣式*/
+@media (max-width:768px){
+	body{
+		overflow-x: hidden;
+	}
+  }
 /*在 mobile 直式下變更樣式*/
 @media (max-width:375px){
 	.menu{
